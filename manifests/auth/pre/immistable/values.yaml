@@ -1,1 +1,7 @@
+nameOverride: auth
+fullnameOverride: ""
 
+appName: auth
+
+image:
+  imageTag: ocp-23-14
