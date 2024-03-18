@@ -4,4 +4,4 @@ fullnameOverride: ""
 appName: auth
 
 image:
-  imageTag: ocp-23-14
+  imageTag: ocp-23-19
